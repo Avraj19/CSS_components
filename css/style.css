@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&display=swap):
+
+.container {
+    width: 800px;
+    margin: 30px auto;
+}
+
+.text-center {
+    text-aline: center
+}
+
+h1 {
+    color: green;
+    font-family: 'EB Garamond', serif;
+}
